@@ -1,5 +1,7 @@
 # Stageless Payload Lab
 
+⚠️ Disclaimer: This project is strictly for educational and ethical hacking purposes done at University under legal professor guidance. Unauthorized use of these techniques is illegal.
+
 This repository contains my midterm lab report for the **Stageless Payload Lab** conducted during my cybersecurity coursework.
 
 ---
